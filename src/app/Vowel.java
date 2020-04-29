@@ -7,7 +7,6 @@ public class Vowel {
     public static int count_vowel(String str) {
 
         char[] m_str = str.replaceAll(" ", "").toCharArray();
-
         int count = 0;
         char vowel[] = { 'a', 'e', 'i', 'o' };
 
