@@ -23,7 +23,7 @@ public class SumNaturale {
     }
 
     public static void main(final String[] args) {
-        System.out.println(Sum(10000));
+        System.out.println(Sum(1000000));
 
     }
 }
